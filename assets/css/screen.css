@@ -34,3 +34,7 @@ label {
 fieldset {
   border-color: transparent;
 }
+
+#wrap input[type="date"], [type="email"], [type="text"], [type="number"] {
+  border-color: transparent;
+}
