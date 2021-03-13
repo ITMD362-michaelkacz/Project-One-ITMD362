@@ -44,3 +44,16 @@ button, input {
 #wrap input[type="date"], [type="email"], [type="text"], [type="number"] {
   border-color: transparent;
 }
+
+@media screen and (min-width: 15em) {
+  #wrap {
+    display: inline-block;
+    justify-content: center;
+  }
+  html {
+    font-size: 50%;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+  }
+}
