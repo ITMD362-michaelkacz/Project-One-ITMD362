@@ -35,6 +35,12 @@ fieldset {
   border-color: transparent;
 }
 
+button, input {
+  overflow: visible;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
 #wrap input[type="date"], [type="email"], [type="text"], [type="number"] {
   border-color: transparent;
 }
