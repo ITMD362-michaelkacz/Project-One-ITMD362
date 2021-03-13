@@ -5,3 +5,12 @@ html {
   background: #343148FF;
   font-size: 1.125em;
 }
+
+h1 {
+  font-size: 200%;
+  font-weight:bold;
+  text-align: center;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  color: #FFFEF2; 
+}
