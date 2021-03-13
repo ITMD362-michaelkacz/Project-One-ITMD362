@@ -8,9 +8,16 @@ html {
 
 h1 {
   font-size: 200%;
-  font-weight:bold;
+  font-weight: bold;
   text-align: center;
   margin-bottom: 0.5em;
   margin-top: 0.5em;
-  color: #FFFEF2; 
+  color: #FFFEF2;
+}
+
+h2 {
+  font-size: 100%;
+  text-align: center;
+  margin-bottom: 0.5em;
+  color: #D7C49EFF;
 }
