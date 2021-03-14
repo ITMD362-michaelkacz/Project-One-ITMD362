@@ -48,9 +48,9 @@ footer {
 }
 
 img {
-  padding-top: 1.5em;
-  width: 5em;
-  height: 5em;
+  padding-top: 4em;
+  width: 7em;
+  height: 7em;
 }
 
 #wrap input[type="date"], [type="email"], [type="text"], [type="number"] {
