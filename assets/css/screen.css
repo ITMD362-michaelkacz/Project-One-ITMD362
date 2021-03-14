@@ -21,6 +21,8 @@ h2 {
   text-align: center;
   margin-bottom: 1em;
   background: #D7C49EFF;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 label {
@@ -45,6 +47,8 @@ button, input {
 footer {
   margin-top: 1em;
   background: #D7C49EFF;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 img {
