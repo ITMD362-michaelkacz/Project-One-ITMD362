@@ -61,6 +61,12 @@ img {
   border-color: transparent;
 }
 
+#wrap input[type="submit"], [type="reset"] {
+  font-family: Futura, "Hoefler Text", Georgia, "Times New Roman", Times, Roman, sans-serif;
+  border-color: #D7C49EFF;
+  font-weight: bold;
+}
+
 @media screen and (min-width: 10em) {
   #wrap {
     display: inline-block;
